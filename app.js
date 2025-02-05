@@ -1,6 +1,6 @@
 
 let numsSorteados = [];
-let possibilidades = 10;
+let possibilidades = 100;
 let numSecreto = gerarNumAleatorio();
 let tentativas = 1;
 

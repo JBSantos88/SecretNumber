@@ -19,7 +19,7 @@ function exibirTextoNaTela(tag,texto){
 console.log(numSecreto);
 
 function exibirMensagemInicial(){
-    exibirTextoNaTela('h1','Adivinhando o número!');
+    exibirTextoNaTela('h1','Descubra o número secreto!');
     exibirTextoNaTela('p','Escolha um número entre 1 e 25:');    
 }
 exibirMensagemInicial();

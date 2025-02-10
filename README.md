@@ -1,7 +1,7 @@
 <h1>JOGO - SECRET NUMBER</h2>
 
 <h2> Sobre: </h2>
-<p>Jogo desenvolvido durante curso de Prgramação na Alura em pareceria com a Oracle.</p>
+<p>Jogo desenvolvido durante curso de Prgramação na Alura em pareceria com a Oracle Next Education.</p>
 
 ## Tecnologias:
 <div>
